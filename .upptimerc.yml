@@ -3,21 +3,30 @@ owner: dnahmiyasSiembro # Your GitHub organization or username, where this repos
 repo: uptime_service # The name of this repository
 
 sites:
-  - name: Panel
+  - name: AR Panel
     url: https://panel.siembro.com
-  - name: Auth
+  - name: AR Auth
     url: https://auth.siembro.com
-  - name: Merchant
+  - name: AR Merchant
     url: https://merchant.siembro.com
-  - name: Risk
+  - name: AR Risk
     url: https://risk.siembro.com/healthcheck
-  - name: Bureau
+  - name: AR Bureau
     url: https://bureau.siembro.com/healthcheck
+  - name: MX Panel
+    url: https://panel.siembro.mx
+  - name: MX Auth
+    url: https://auth.siembro.mx
+  - name: MX Merchant
+    url: https://merchant.siembro.mx
+  - name: MX Risk
+    url: https://risk.siembro.mx/healthcheck
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
+  theme: dark
   baseUrl: /uptime_service
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Siembro Status Page
