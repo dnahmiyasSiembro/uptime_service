@@ -4,9 +4,9 @@
     "url": "https://panel.siembro.com",
     "icon": "https://favicons.githubusercontent.com/panel.siembro.com",
     "slug": "ar-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 467,
     "timeMonth": 410,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-31": 0
+    }
   },
   {
     "name": "AR Auth",
