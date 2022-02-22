@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.93%",
-    "time": 422,
-    "timeDay": 354,
-    "timeWeek": 349,
-    "timeMonth": 426,
-    "timeYear": 422,
+    "time": 420,
+    "timeDay": 357,
+    "timeWeek": 365,
+    "timeMonth": 429,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2022-01-31": 35
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 230,
-    "timeWeek": 212,
-    "timeMonth": 157,
-    "timeYear": 159,
+    "time": 161,
+    "timeDay": 219,
+    "timeWeek": 223,
+    "timeMonth": 160,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 198,
-    "timeWeek": 203,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "time": 154,
+    "timeDay": 213,
+    "timeWeek": 213,
+    "timeMonth": 154,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 186,
-    "timeWeek": 189,
-    "timeMonth": 154,
-    "timeYear": 155,
+    "time": 157,
+    "timeDay": 206,
+    "timeWeek": 201,
+    "timeMonth": 155,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 253,
-    "timeWeek": 209,
-    "timeMonth": 147,
-    "timeYear": 147,
+    "time": 149,
+    "timeDay": 219,
+    "timeWeek": 222,
+    "timeMonth": 151,
+    "timeYear": 149,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 349,
-    "timeDay": 302,
-    "timeWeek": 340,
-    "timeMonth": 339,
-    "timeYear": 349,
+    "time": 350,
+    "timeDay": 382,
+    "timeWeek": 364,
+    "timeMonth": 341,
+    "timeYear": 350,
     "dailyMinutesDown": {}
   },
   {
@@ -115,19 +115,17 @@
     "icon": "https://favicons.githubusercontent.com/auth.siembro.mx",
     "slug": "mx-auth",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 197,
-    "timeDay": 171,
-    "timeWeek": 188,
-    "timeMonth": 195,
-    "timeYear": 197,
-    "dailyMinutesDown": {
-      "2022-02-21": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 198,
+    "timeDay": 176,
+    "timeWeek": 199,
+    "timeMonth": 198,
+    "timeYear": 198,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MX Merchant",
@@ -135,19 +133,17 @@
     "icon": "https://favicons.githubusercontent.com/merchant.siembro.mx",
     "slug": "mx-merchant",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 404,
-    "timeWeek": 278,
-    "timeMonth": 214,
+    "timeDay": 400,
+    "timeWeek": 281,
+    "timeMonth": 215,
     "timeYear": 212,
-    "dailyMinutesDown": {
-      "2022-02-21": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MX Risk",
@@ -155,18 +151,16 @@
     "icon": "https://favicons.githubusercontent.com/risk.siembro.mx",
     "slug": "mx-risk",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 192,
-    "timeDay": 174,
-    "timeWeek": 201,
-    "timeMonth": 192,
-    "timeYear": 192,
-    "dailyMinutesDown": {
-      "2022-02-21": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 193,
+    "timeDay": 173,
+    "timeWeek": 209,
+    "timeMonth": 195,
+    "timeYear": 193,
+    "dailyMinutesDown": {}
   }
 ]
