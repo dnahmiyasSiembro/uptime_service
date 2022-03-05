@@ -10,11 +10,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.92%",
-    "time": 409,
-    "timeDay": 295,
-    "timeWeek": 378,
-    "timeMonth": 397,
-    "timeYear": 409,
+    "time": 408,
+    "timeDay": 366,
+    "timeWeek": 396,
+    "timeMonth": 400,
+    "timeYear": 408,
     "dailyMinutesDown": {
       "2022-03-04": 17,
       "2022-01-31": 35
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 168,
-    "timeDay": 181,
-    "timeWeek": 190,
-    "timeMonth": 180,
-    "timeYear": 168,
+    "time": 169,
+    "timeDay": 217,
+    "timeWeek": 192,
+    "timeMonth": 183,
+    "timeYear": 169,
     "dailyMinutesDown": {
       "2022-03-04": 16
     }
@@ -52,9 +52,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 162,
-    "timeDay": 147,
-    "timeWeek": 179,
-    "timeMonth": 173,
+    "timeDay": 179,
+    "timeWeek": 187,
+    "timeMonth": 175,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2022-03-04": 16
@@ -72,9 +72,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 163,
-    "timeDay": 191,
-    "timeWeek": 175,
-    "timeMonth": 172,
+    "timeDay": 216,
+    "timeWeek": 176,
+    "timeMonth": 174,
     "timeYear": 163,
     "dailyMinutesDown": {
       "2022-03-04": 15
@@ -86,19 +86,17 @@
     "icon": "https://favicons.githubusercontent.com/bureau.siembro.com",
     "slug": "ar-bureau",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 156,
-    "timeDay": 142,
-    "timeWeek": 169,
-    "timeMonth": 169,
+    "timeDay": 180,
+    "timeWeek": 171,
+    "timeMonth": 172,
     "timeYear": 156,
-    "dailyMinutesDown": {
-      "2022-03-04": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MX Panel",
@@ -106,19 +104,17 @@
     "icon": "https://favicons.githubusercontent.com/panel.siembro.mx",
     "slug": "mx-panel",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 345,
-    "timeDay": 299,
-    "timeWeek": 308,
-    "timeMonth": 337,
-    "timeYear": 345,
-    "dailyMinutesDown": {
-      "2022-03-04": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 346,
+    "timeDay": 349,
+    "timeWeek": 319,
+    "timeMonth": 340,
+    "timeYear": 346,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MX Auth",
@@ -126,19 +122,17 @@
     "icon": "https://favicons.githubusercontent.com/auth.siembro.mx",
     "slug": "mx-auth",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 208,
-    "timeWeek": 220,
-    "timeMonth": 210,
+    "timeDay": 203,
+    "timeWeek": 219,
+    "timeMonth": 213,
     "timeYear": 205,
-    "dailyMinutesDown": {
-      "2022-03-04": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MX Merchant",
@@ -146,19 +140,17 @@
     "icon": "https://favicons.githubusercontent.com/merchant.siembro.mx",
     "slug": "mx-merchant",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 213,
-    "timeDay": 208,
-    "timeWeek": 214,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 214,
+    "timeDay": 202,
+    "timeWeek": 210,
     "timeMonth": 227,
-    "timeYear": 213,
-    "dailyMinutesDown": {
-      "2022-03-04": 14
-    }
+    "timeYear": 214,
+    "dailyMinutesDown": {}
   },
   {
     "name": "MX Risk",
@@ -166,18 +158,16 @@
     "icon": "https://favicons.githubusercontent.com/risk.siembro.mx",
     "slug": "mx-risk",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 191,
-    "timeWeek": 223,
-    "timeMonth": 210,
+    "timeDay": 210,
+    "timeWeek": 224,
+    "timeMonth": 212,
     "timeYear": 201,
-    "dailyMinutesDown": {
-      "2022-03-04": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
