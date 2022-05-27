@@ -122,53 +122,59 @@
     "url": "https://auth.siembro.mx",
     "icon": "https://favicons.githubusercontent.com/auth.siembro.mx",
     "slug": "mx-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 199,
-    "timeWeek": 254,
-    "timeMonth": 229,
-    "timeYear": 220,
-    "dailyMinutesDown": {}
+    "time": 219,
+    "timeDay": 138,
+    "timeWeek": 232,
+    "timeMonth": 224,
+    "timeYear": 219,
+    "dailyMinutesDown": {
+      "2022-05-27": 0
+    }
   },
   {
     "name": "MX Merchant",
     "url": "https://merchant.siembro.mx",
     "icon": "https://favicons.githubusercontent.com/merchant.siembro.mx",
     "slug": "mx-merchant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 219,
-    "timeDay": 272,
-    "timeWeek": 239,
-    "timeMonth": 229,
-    "timeYear": 219,
-    "dailyMinutesDown": {}
+    "time": 218,
+    "timeDay": 197,
+    "timeWeek": 224,
+    "timeMonth": 226,
+    "timeYear": 218,
+    "dailyMinutesDown": {
+      "2022-05-27": 0
+    }
   },
   {
     "name": "MX Risk",
     "url": "https://risk.siembro.mx/healthcheck",
     "icon": "https://favicons.githubusercontent.com/risk.siembro.mx",
     "slug": "mx-risk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 212,
-    "timeDay": 281,
-    "timeWeek": 249,
-    "timeMonth": 232,
+    "timeDay": 201,
+    "timeWeek": 233,
+    "timeMonth": 229,
     "timeYear": 212,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-27": 0
+    }
   }
 ]
