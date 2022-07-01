@@ -1,7 +1,7 @@
 url: https://merchant.siembro.mx
-status: up
-code: 200
-responseTime: 239
-lastUpdated: 2022-06-30T23:17:24.525Z
+status: down
+code: 403
+responseTime: 55
+lastUpdated: 2022-07-01T07:17:55.969Z
 startTime: Wed Jan 19 2022 14:42:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
