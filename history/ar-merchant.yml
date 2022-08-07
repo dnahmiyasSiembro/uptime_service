@@ -1,7 +1,7 @@
 url: https://merchant.siembro.com
-status: down
-code: 500
-responseTime: 155
-lastUpdated: 2022-08-07T05:58:29.166Z
+status: up
+code: 200
+responseTime: 119
+lastUpdated: 2022-08-07T06:42:10.260Z
 startTime: Wed Jan 19 2022 14:42:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
