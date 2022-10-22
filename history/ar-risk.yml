@@ -1,7 +1,7 @@
 url: https://risk.siembro.com/healthcheck
-status: down
-code: 404
-responseTime: 146
-lastUpdated: 2022-10-22T14:58:36.239Z
+status: up
+code: 200
+responseTime: 109
+lastUpdated: 2022-10-22T16:35:45.590Z
 startTime: Wed Jan 19 2022 14:42:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
