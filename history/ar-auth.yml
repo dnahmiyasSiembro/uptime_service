@@ -1,7 +1,7 @@
 url: https://auth.siembro.com
-status: up
-code: 200
-responseTime: 94
-lastUpdated: 2022-10-22T16:35:40.354Z
+status: down
+code: 502
+responseTime: 128
+lastUpdated: 2022-10-22T22:56:27.811Z
 startTime: Wed Jan 19 2022 14:42:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
