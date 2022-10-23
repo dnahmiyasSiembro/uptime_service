@@ -1,7 +1,7 @@
 url: https://auth.siembro.mx
-status: down
-code: 502
-responseTime: 80
-lastUpdated: 2022-10-23T13:32:56.284Z
+status: up
+code: 200
+responseTime: 85
+lastUpdated: 2022-10-23T14:58:09.906Z
 startTime: Wed Jan 19 2022 14:42:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
