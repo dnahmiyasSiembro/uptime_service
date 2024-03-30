@@ -1,7 +1,7 @@
 url: https://risk.siembro.mx/healthcheck
-status: up
-code: 200
-responseTime: 63
-lastUpdated: 2024-03-29T23:13:20.860Z
+status: down
+code: 502
+responseTime: 74
+lastUpdated: 2024-03-30T05:51:11.745Z
 startTime: 2022-01-19T14:42:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
