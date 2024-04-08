@@ -1,7 +1,7 @@
 url: https://bureau.siembro.com/healthcheck
-status: down
-code: 502
-responseTime: 65
-lastUpdated: 2024-04-08T22:53:55.730Z
+status: up
+code: 200
+responseTime: 163
+lastUpdated: 2024-04-08T23:01:12.111Z
 startTime: 2022-01-19T14:42:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
